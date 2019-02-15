@@ -1,0 +1,24 @@
+.grey-wrapper {
+  background-color: #333333;
+  height: 20vh;
+}
+
+.footer {
+  margin-top: 50px;
+  color: white;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.list {
+  padding: 10px;
+}
+
+.list i {
+  padding: 5px;
+  font-size: 14px;
+}
+
+.list i:hover {
+  color: yellow;
+}

@@ -1,0 +1,15 @@
+.argument h3 {
+  font-weight: bolder;
+  margin: 5px;
+  font-size: 20px;
+}
+
+.argument p {
+  font-size: 15px;
+  margin-top: 10px;
+  font-weight: lighter;
+}
+
+.argument img {
+  width: 100px;
+}

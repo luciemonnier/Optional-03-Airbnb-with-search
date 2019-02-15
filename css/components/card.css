@@ -1,0 +1,49 @@
+.cards {
+  display: flex;
+}
+
+.card {
+  position: relative;
+  width: 35%;
+  height: 200px;
+  border-radius:3px;
+  color: white;
+  box-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+  margin: 30px;
+  background-position: center;
+}
+
+.card-avatar {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.card-city {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 20px;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.1)
+}
+
+.card-desc {
+  position: absolute;
+  bottom: 5px;
+  left: 10px;
+  font-size: 15px;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.2)
+}
+
+.card-name {
+  position: absolute;
+  bottom: 35px;
+  left: 10px;
+  font-size: 25px;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.2)
+  font-weight: bolder;
+}
+
+.wrapper-grey h2 {
+  margin-top: 30px;
+}/* Card design */
